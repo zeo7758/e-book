@@ -1,4 +1,4 @@
-# mooc-shop
+# eBook
 
 > A Vue.js project
 
